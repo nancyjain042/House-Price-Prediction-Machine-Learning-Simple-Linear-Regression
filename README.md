@@ -1,1 +1,1 @@
-# House-Price-Prediction-Machine-Learning-Simple-Linear-Regression
+# House Price Prediction
